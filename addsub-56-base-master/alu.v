@@ -7,5 +7,5 @@ module alu(data_operandA, data_operandB, ctrl_ALUopcode, ctrl_shiftamt, data_res
    output isNotEqual, isLessThan, overflow;
 
    // YOUR CODE HERE //
-
+	this is check1
 endmodule
